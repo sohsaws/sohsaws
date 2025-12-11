@@ -20,11 +20,11 @@
 
   <!-- Иконки соцсетей (Simple Icons — бесплатные, open-source, неоновый фильтр) -->
   <a href="https://discord.gg/ТВОЯ_ССЫЛКА" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/discord" height="50" alt="Discord" style="filter: brightness(1.3) hue-rotate(250deg);" />
+    <img src="https://cdn.simpleicons.org/discord" height="50" alt="Discord"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/ТВОЯ_ССЫЛКА" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/telegram" height="50" alt="Telegram" style="filter: brightness(1.3) hue-rotate(250deg);" />
+    <img src="https://cdn.simpleicons.org/telegram" height="50" alt="Telegram"/>
   </a>
 
   <br><br><br>
