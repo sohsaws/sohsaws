@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sohsaws/sohsaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Космический тайпинг-текст (точно как у DenverCoder1) -->
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=36&duration=4500&pause=1000&color=7C3AED&background=0F002B&center=true&vCenter=true&width=800&lines=always+learning+something+new;looking+forward;Improving+and+perfecting;passion+for+excellence;&repeat=1" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Твой стек с красивыми иконками (тёмная тема) -->
+<h3>Tech Stack & Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,cpp,c,cs,vscode,git,github,linux,docker&theme=dark&perline=9" />
+
+<br><br>
+
+<!-- Посетители планеты (космический фиолетовый) -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors+from+space&color=7C3AED&style=for-the-badge" />
+
+</div>
