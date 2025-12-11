@@ -1,5 +1,4 @@
-<!-- Лёгкий космический GIF как фон под текстом (звёзды + туманность) -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/gifs/stars.gif" width="100%" alt="Cosmic stars background" />
+
 
 <div align="center" style="position: relative; z-index: 1;">
 
