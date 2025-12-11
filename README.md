@@ -9,6 +9,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,cpp,c,cs&theme=dark&perline=9" />
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Space+visitors&color=B197FC&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=sohsaws&label=Space+visitors&color=B197FC&style=flat-square" />
 
 </div>
