@@ -12,7 +12,7 @@
 
   <br>
 
-  <p style="font-size: 40px;" align="center">
+  <p style="font-size: 140px;" align="center">
     <sub>Developer and mathematics student dedicated to continuous learning and growth.<br>
     Passionate about writing efficient, maintainable code and solving complex problems.<br>
     Focused on applying knowledge to real-world projects and improving my skills through practical experience.</sub>
