@@ -2,9 +2,18 @@
 
 <div align="center">
 
+  <!-- Space background for nickname section -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/milkyway.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/milkyway.gif">
+    <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/milkyway.gif" alt="Space background">
+  </picture>
+  
   <h1>
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=100&lines=sohsaws&repeat=false" alt="sohsaws" />
   </h1>
+  
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider">
 
   <br>
 
@@ -12,11 +21,11 @@
 
   <br>
 
-  <p style="font-size: 140px;" align="center">
-    <sub>Developer and mathematics student dedicated to continuous learning and growth.<br>
+  <h4 align="center">
+    Developer and mathematics student dedicated to continuous learning and growth.<br>
     Passionate about writing efficient, maintainable code and solving complex problems.<br>
-    Focused on applying knowledge to real-world projects and improving my skills through practical experience.</sub>
-  </p>
+    Focused on applying knowledge to real-world projects and improving my skills through practical experience.
+  </h4>
 
   <br>
 
