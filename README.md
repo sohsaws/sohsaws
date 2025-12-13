@@ -1,9 +1,6 @@
-<!-- Глубокий космос: анимированные звёзды + туманность (loop, лёгкий и красивый) -->
+
 
 <div align="center">
-
-  <!-- Space background for nickname section -->    
-  <img width="100%" src="https://wallpaperaccess.com/black-space-4k" alt="Space background">
 
   
   <h1>
