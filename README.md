@@ -2,7 +2,9 @@
   <h1>
     <img src="https://raw.githubusercontent.com/sohsaws/sohsaws/main/Hacker.gif" alt="Hacker animation" width="100" height="100" />
     &nbsp;&nbsp;
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&height=100&lines=sohsaws&repeat=false" alt="sohsaws" />
+    <svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60" role="img" aria-label="sohsaws">
+      <text x="0" y="42" fill="#7C3AED" font-family="Fira Code, monospace" font-size="32">sohsaws</text>
+    </svg>
   </h1>
 
   <br>
