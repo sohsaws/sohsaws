@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/sohsaws/sohsaws/main/Hacker.gif" alt="Hacker animation" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/sohsaws/sohsaws/main/Hacker.gif" alt="Hacker animation" width="100" height="100" align = "left" />
     &nbsp;&nbsp;
     <svg xmlns="http://www.w3.org/2000/svg" width="260" height="60" viewBox="0 0 260 60" role="img" aria-label="sohsaws">
       <text x="50%" y="42" text-anchor="middle" fill="#3d1e72ff" font-family="Fira Code, monospace" font-size="32">sohsaws</text>
