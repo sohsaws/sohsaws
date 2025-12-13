@@ -3,7 +3,7 @@
   <table align="center">
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/sohsaws/sohsaws/main/Hacker.gif" alt="Hacker animation" width="120" />
+        <img src="https://raw.githubusercontent.com/sohsaws/sohsaws/main/Hacker.gif" alt="Hacker animation" width="20" height="20" />
       </td>
       <td valign="middle">
         <h1>
