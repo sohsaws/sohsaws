@@ -13,11 +13,11 @@
 
   <br>
 
-  <h5 align="center">
+  <h3 align="center">
     Developer and mathematics student dedicated to continuous learning and growth.<br>
     Passionate about writing efficient, maintainable code and solving complex problems.<br>
     Focused on applying knowledge to real-world projects and improving my skills through practical experience.
-  </h5>
+  </h3>
 
   <br>
 
