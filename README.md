@@ -1,8 +1,9 @@
+
+<img src="https://raw.githubusercontent.com/sohsaws/sohsaws/main/Hacker.gif" alt="Hacker animation" width="100" height="100" align = "left" />
+
 <div align="center">
 
   <h1>
-    <img src="https://raw.githubusercontent.com/sohsaws/sohsaws/main/Hacker.gif" alt="Hacker animation" width="100" height="100" />
-    &nbsp;&nbsp;
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=100&lines=sohsaws&repeat=false" alt="sohsaws" />
   </h1>
 
