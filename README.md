@@ -17,7 +17,7 @@
   <br>
 
   <h3>⚡ Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,postgresql,html,css,tailwind,react,nextjs,figma&theme=dark&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,postgresql,prisma,html,css,tailwind,react,nextjs,figma&theme=dark&perline=9" alt="Tech Stack" />
 
   <br><br>
 
